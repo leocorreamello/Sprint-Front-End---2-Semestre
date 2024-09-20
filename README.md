@@ -1,4 +1,4 @@
-![Fiap - TechMahindra](logofigma-Copia.PNG)
+![Fiap - TechMahindra](logofigma-Copia.png)
 # Virtual Vanguard
 
 ## Descrição do Projeto
